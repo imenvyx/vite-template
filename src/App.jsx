@@ -3,7 +3,9 @@
 function App() {
 
   return (
-    <div></div>
+    <div>
+      <h1 className="text-red-500 text-xl">Texto de Test</h1>
+    </div>
   )
 }
 
